@@ -1,2 +1,2 @@
 # chatbot
-project1
+easy
